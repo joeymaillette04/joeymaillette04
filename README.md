@@ -8,11 +8,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joeymaillette04@gmail.com)
 </div>
 
-<img align="left" border-radius=100px src="https://github.com/joeymaillette04/joeymaillette04/assets/71158927/c9e25d44-f54d-4b42-a3cc-5d6eab84c7d7" alt="Gif" height=300>
+<div style="display: flex;">
+
+<img align="left" style="border-radius: 100px; margin-right: 20px;" src="https://github.com/joeymaillette04/joeymaillette04/assets/71158927/c9e25d44-f54d-4b42-a3cc-5d6eab84c7d7" alt="Gif" height=300>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=059312&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AI+%7C+Big Data+Enthusiast;Full+Stack+Engineer;Lifelong+Learner;Ex+Fortniter" alt="Typing SVG" /></a>
-</div>
 
 <hr>
 
