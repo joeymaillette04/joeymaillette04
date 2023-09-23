@@ -12,7 +12,7 @@
 <img align="left" border-radius=100px src="https://github.com/joeymaillette04/joeymaillette04/assets/71158927/62a8c5b5-94fc-4d5c-92f5-7080beb5bf4c" alt="Gif" height=300>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=059312&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AI+%7C+Big Data+Enthusiast;Full+Stack+Engineer;Lifelong+Learner;Ex+Fortniter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=059312&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AI+%7C+Big Data+Enthusiast;Full+Stack+Engineer;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
 <hr>
