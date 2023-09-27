@@ -22,7 +22,6 @@
 ----------------------------------
 📚 Studying as a Mechatronics Engineering Student @ UWaterloo
 ⭐ Passionate about Data Analysis, ML, AI, and Finance
-🔭 DisplayLogiQ Founder: Market/Quantitative Analysis Dashboard
 🌱 Learning about Quantitative Analysis and Data Processing
 🏡 Based in Waterloo, ON, Canada 
 ✅ Main Languages: Python, C#, SQL
