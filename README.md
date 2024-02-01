@@ -12,19 +12,20 @@
 <img align="left" border-radius=100px src="https://github.com/joeymaillette04/joeymaillette04/assets/71158927/62a8c5b5-94fc-4d5c-92f5-7080beb5bf4c" alt="Gif" height=300>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=059312&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AI+%7C+Big Data+Enthusiast;Full+Stack+Engineer;Lifelong+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=059312&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Autonomous+Vehicles+Researcher;ML+%7C+AI+%7C+Big Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
 <hr>
 
 ```
-💻 Prev Software Engineer @ titanium.agency
+🏎️ Behavior/Planning SWE @ MIT-PITT-RW
+💻 SDE @ BMO
 ----------------------------------
-📚 Studying as a Mechatronics Engineering Student @ UWaterloo
-⭐ Passionate about Data Analysis, ML, AI, and Finance
-🌱 Learning about Quantitative Analysis and Data Processing
+📚 Studying Computer Science and Artificial Intelligence @ UWaterloo
+⭐ Passionate about Autonomous Vehicles, Robotics, AI, and ML
+🌱 Learning about AV planning techniques: A*, D*, RRTs 
 🏡 Based in Waterloo, ON, Canada 
-✅ Main Languages: Python, C#, SQL
+✅ Programming Favorites: C++, Python, ROS2
 🤔 Looking to make connections so reach out!
 ```
 
@@ -58,13 +59,17 @@ Frameworks and Libraries 📚
 
 <div align="center">
 
+[![ROS2](https://img.shields.io/badge/ROS2-green?style=for-the-badge&logo=ros2)](https://index.ros.org/doc/ros2/)
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-yellowgreen?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-lightgrey?style=for-the-badge&logo=scipy)](https://scipy.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-navy?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-lightblue?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 </div>
 
@@ -76,16 +81,17 @@ Tools and Platforms 🗃️
 
 <div align="center">
 
+[![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GCP](https://img.shields.io/badge/GCP-skyblue?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
-[![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)
+[![WSL](https://img.shields.io/badge/WSL-lightgreen?style=for-the-badge&logo=windows)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Rviz](https://img.shields.io/badge/Rviz-blue?style=for-the-badge)](https://index.ros.org/p/rviz/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-lightblue?style=for-the-badge&logo=snowflake)](https://www.snowflake.com/)
-[![Jira](https://img.shields.io/badge/Jira-navy?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
-[![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack)](https://slack.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 </div>
+
 
 
 
