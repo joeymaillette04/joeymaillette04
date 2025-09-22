@@ -18,11 +18,10 @@
 <hr>
 
 ```
-🏎️ Behavior/Planning SWE @ MIT-PITT-RW
 💻 SDE @ BMO
 ----------------------------------
 📚 Studying Computer Science and Artificial Intelligence @ UWaterloo
-⭐ Passionate about Autonomous Vehicles, Robotics, AI, and ML
+⭐ Passionate about Financial Trading Systems, Autonomous Robotics, AI, and ML
 🌱 Learning about AV planning techniques: A*, D*, RRTs 
 🏡 Based in Waterloo, ON, Canada 
 ✅ Programming Favorites: C++, Python, ROS2
